@@ -40,25 +40,21 @@ The framework is designed to work seamlessly with continuous integration tools s
 
 
 
- ** Installation Instructions**
- 
-**Clone the repository:**
-```bash
-git clone _https://github.com/reza17-bit/wsd_problem_submission.git_
-Navigate to the project directory:
-bash
-Run
-Copy code
-cd Testwsd
-Install the necessary dependencies:
-bash
-Run
-Copy code
-mvn install
-Running Tests
-To execute the tests, use the following command:
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone git clone https://github.com/reza17-bit/wsd_problem_submission.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Testwsd
+    ```
+3. Install dependencies:
+    ```bash
+    mvn install
+    ```
 
-bash
-Run
-Copy code
+## Running Tests
+To run the tests, use the following command:
+```bash
 mvn test
