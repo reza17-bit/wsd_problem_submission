@@ -10,9 +10,9 @@ This project aims to streamline the automation of both User Interface (UI) and A
 **Automated UI Testing:**
  1. Validates that the search bar accurately retrieves product results.
  2. Ensures that cart functionality operates as intended.
-Maven Integration:
-Facilitates build and dependency management.
-Project Structure:
-src/main/java: Contains the core application code.
-src/test/java: Houses the test cases.
-pom.xml: The configuration file for Maven.
+**Maven Integration:**
+1. Facilitates build and dependency management.
+**Project Structure:**
+- src/main/java: Contains the core application code.
+- src/test/java: Houses the test cases.
+- pom.xml: The configuration file for Maven.
